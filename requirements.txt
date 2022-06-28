@@ -4,3 +4,4 @@ joblib
 tqdm
 probeinterface>=0.2.9
 packaging
+distributed
