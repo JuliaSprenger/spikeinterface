@@ -1,4 +1,5 @@
 numpy
+numba
 neo>=0.10.2
 joblib
 tqdm
